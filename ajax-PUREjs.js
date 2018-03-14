@@ -1,4 +1,3 @@
-
 function ajax(obj){
   var req = new XMLHttpRequest();
 
